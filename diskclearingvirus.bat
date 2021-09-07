@@ -1,0 +1,2 @@
+@Echo
+Del C:\**ly
